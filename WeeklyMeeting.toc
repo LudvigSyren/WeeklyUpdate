@@ -1,0 +1,6 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {0.1}Highlights of the Week}{2}{section.0.1}% 
+\contentsline {section}{\numberline {0.2}Project Specific Updates}{2}{section.0.2}% 
+\contentsline {section}{\numberline {0.3}SMART Goals}{2}{section.0.3}% 
+\contentsline {section}{\numberline {0.4}Documents}{2}{section.0.4}% 
+\contentsline {section}{\numberline {0.5}Things I Need Help with and my Plan to Resolve}{2}{section.0.5}% 
